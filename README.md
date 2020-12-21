@@ -1,2 +1,2 @@
 # Desafio_HostGator
-Desafio HostGator
+Desafio HostGator, as instruções estão dentro de suas pastas
